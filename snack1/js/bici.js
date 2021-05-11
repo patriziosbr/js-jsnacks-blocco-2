@@ -37,3 +37,4 @@ var findMin = Math.min(...arrPeso)
 
 console.log("Pesi biciclette ", arrPeso);
 console.log("Peso minimo ", findMin);
+
